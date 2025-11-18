@@ -10,7 +10,7 @@ import { AuthProvider } from './context/AuthProvider';
 import { PacientesProvider } from './context/PacientesProvider';
 import { RutaProtegida } from './layout/RutaProtegida';
 import { AdministrarPacientes } from './paginas/AdministrarPacientes';
-import { EditarPerfil } from './paginas/editarPerfil';
+import { EditarPerfil } from './paginas/EditarPerfil';
 import { CambiarPassword } from './paginas/CambiarPassword';
 
 function App() {
